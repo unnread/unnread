@@ -1,26 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="2500" height="700">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300">
 <rect width="100%" height="100%" fill="black"/>
 
-<text x="20" y="40"
-font-family="monospace"
-font-size="14"
+<text 
+x="20"
+y="40"
 fill="#00ff00"
+font-family="Courier New, monospace"
+font-size="18"
 xml:space="preserve">
 
-<tspan x="20" dy="0">.S S.     sSSs_sSSs     .S       S.    .S_sSSs      sSSs    sSSs    sSSs</tspan>
-<tspan x="20" dy="18">.SS SS.   d%%SP~YS%%b   .SS       SS.  .SS~YS%%b    d%%SP   d%%SP   d%%SP</tspan>
-<tspan x="20" dy="18">S%S S%S  d%S'     S%b  S%S       S%S  S%S   S%b  d%S'    d%S'    d%S'</tspan>
-<tspan x="20" dy="18">S%S S%S  S%S       S%S  S%S       S%S  S%S    S%S  S%S     S%|     S%|</tspan>
-<tspan x="20" dy="18">S%S S%S  S&S       S&S  S&S       S&S  S%S    S&S  S&S     S&S     S&S</tspan>
-<tspan x="20" dy="18">SS SS   S&S       S&S  S&S       S&S  S&S    S&S  S&S_Ss  Y&Ss    Y&Ss</tspan>
-<tspan x="20" dy="18">S S    S&S       S&S  S&S       S&S  S&S    S&S  S&S~SP  S&&S   S&&S</tspan>
-<tspan x="20" dy="18">SSS    S&S       S&S  S&S       S&S  S&S    S&S  S&S       S*S    SS</tspan>
-<tspan x="20" dy="18">SS    Sb       dS  Sb       dS  SS    SS  Sb        lS     lS</tspan>
-<tspan x="20" dy="18">SS    SS.     .SS  SS.     .SS  SS    SS  SS.      .SP    .SP</tspan>
-<tspan x="20" dy="18">SS     SSSbs_sdSSS    SSSbs_sdSSS   SS    SS   SSSbs  sSSS   sSSS</tspan>
-<tspan x="20" dy="18">SS      YSSP~YSSY      YSSP~YSSY    SS    SSS    YSSP  YSS'    YSS'</tspan>
+<tspan x="20" dy="0">██╗   ██╗ ██████╗ ██╗   ██╗███╗   ██╗███████╗███████╗███████╗</tspan>
+<tspan x="20" dy="25">╚██╗ ██╔╝██╔═══██╗██║   ██║████╗  ██║██╔════╝██╔════╝██╔════╝</tspan>
+<tspan x="20" dy="25"> ╚████╔╝ ██║   ██║██║   ██║██╔██╗ ██║█████╗  ███████╗███████╗</tspan>
+<tspan x="20" dy="25">  ╚██╔╝  ██║   ██║██║   ██║██║╚██╗██║██╔══╝  ╚════██║╚════██║</tspan>
+<tspan x="20" dy="25">   ██║   ╚██████╔╝╚██████╔╝██║ ╚████║███████╗███████║███████║</tspan>
+<tspan x="20" dy="25">   ╚═╝    ╚═════╝  ╚═════╝ ╚═╝  ╚═══╝╚══════╝╚══════╝╚══════╝</tspan>
 
-<tspan x="20" dy="50">                 ⚓ Y O U N E S S ⚓</tspan>
+<tspan x="20" dy="50">              ⚓ Y O U N E S S ⚓</tspan>
 
 </text>
+
 </svg>
