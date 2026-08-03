@@ -1,23 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300">
-<rect width="100%" height="100%" fill="black"/>
-
-<text 
-x="20"
-y="40"
-fill="#00ff00"
-font-family="Courier New, monospace"
-font-size="18"
-xml:space="preserve">
-
-<tspan x="20" dy="0">██╗   ██╗ ██████╗ ██╗   ██╗███╗   ██╗███████╗███████╗███████╗</tspan>
-<tspan x="20" dy="25">╚██╗ ██╔╝██╔═══██╗██║   ██║████╗  ██║██╔════╝██╔════╝██╔════╝</tspan>
-<tspan x="20" dy="25"> ╚████╔╝ ██║   ██║██║   ██║██╔██╗ ██║█████╗  ███████╗███████╗</tspan>
-<tspan x="20" dy="25">  ╚██╔╝  ██║   ██║██║   ██║██║╚██╗██║██╔══╝  ╚════██║╚════██║</tspan>
-<tspan x="20" dy="25">   ██║   ╚██████╔╝╚██████╔╝██║ ╚████║███████╗███████║███████║</tspan>
-<tspan x="20" dy="25">   ╚═╝    ╚═════╝  ╚═════╝ ╚═╝  ╚═══╝╚══════╝╚══════╝╚══════╝</tspan>
-
-<tspan x="20" dy="50">              ⚓ Y O U N E S S ⚓</tspan>
-
-</text>
-
-</svg>
+.sSSS SSSSS .sSSSSs.    .sSSS s.    .sSSSs.  SSSSS .sSSSSs.    .sSSSSs.    .sSSSSs.         .sSSSSs.    SSSSS .sSSSSs.    .sSSSSs.       .sSSSSSSSSs.   .sSSSSs.    
+SSSSS SSSSS SSSSSSSSSs. SSSSS SSSs. SSSSS SS SSSSS SSSSSSSSSs. SSSSSSSSSs. SSSSSSSSSs.      SSSSSSSSSs. SSSSS SSSSSSSSSs. SSSSSSSSSs. .sSSSSSSSSSSSSSs. SSSSSSSSSs. 
+S SSS SSSSS S SSS SSSSS S SSS SSSSS S SSS  `sSSSSS S SSS SSSS' S SSS SSSS' S SSS SSSS'      S SSS SSSSS S SSS S SSS SSSSS S SSS SSSSS SSSSS S SSS SSSSS S SSS SSSS' 
+S  SS SSSSS S  SS SSSSS S  SS SSSSS S  SS    SSSSS S  SS       S  SS       S  SS            S  SS SSSSS S  SS S  SS SSSS' S  SS SSSSS SSSSS S  SS SSSSS S  SS       
+`..SSsSSSS' S..SS SSSSS S..SS SSSSS S..SS    SSSSS S..SSsss    `SSSSsSSSa. `SSSSsSSSa.      S..SS SSSSS S..SS S..SSsSSSa. S..SSsSSSSS `:S:' S..SS `:S:' S..SSsss    
+   S:::S    S:::S SSSSS S:::S SSSSS S:::S    SSSSS S:::SSSS    .sSSS SSSSS .sSSS SSSSS      S:::SsSSSSS S:::S S:::S SSSSS S:::S SSSSS       S:::S       S:::SSSS    
+   S;;;S    S;;;S SSSSS S;;;S SSSSS S;;;S    SSSSS S;;;S       S;;;S SSSSS S;;;S SSSSS      S;;;S       S;;;S S;;;S SSSSS S;;;S SSSSS       S;;;S       S;;;S       
+   S%%%S    S%%%S SSSSS S%%%S SSSSS S%%%S    SSSSS S%%%S SSSSS S%%%S SSSSS S%%%S SSSSS      S%%%S       S%%%S S%%%S SSSSS S%%%S SSSSS       S%%%S       S%%%S SSSSS 
+   SSSSS    SSSSSsSSSSS SSSSSsSSSSS SSSSS    SSSSS SSSSSsSS;:' SSSSSsSSSSS SSSSSsSSSSS      SSSSS       SSSSS SSSSS SSSSS SSSSS SSSSS       SSSSS       SSSSSsSS;:' 
+                                                                                                                                                                    
