@@ -1,36 +1,26 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="3000" height="900">
+<svg xmlns="http://www.w3.org/2000/svg" width="2500" height="700">
 <rect width="100%" height="100%" fill="black"/>
 
-<foreignObject x="20" y="20" width="2950" height="850">
-<div xmlns="http://www.w3.org/1999/xhtml">
-<pre style="
-color:#00ff00;
-font-family:Consolas, 'Courier New', monospace;
-font-size:13px;
-font-weight:bold;
-line-height:13px;
-white-space:pre;
-margin:0;
-">
+<text x="20" y="40"
+font-family="monospace"
+font-size="14"
+fill="#00ff00"
+xml:space="preserve">
 
-.S S.     sSSs_sSSs     .S       S.    .S_sSSs      sSSs    sSSs    sSSs
-.SS SS.   d%%SP~YS%%b   .SS       SS.  .SS~YS%%b    d%%SP   d%%SP   d%%SP
-S%S S%S  d%S'     S%b    S%S       S%S  S%S   S%b  d%S'    d%S'    d%S'
-S%S S%S  S%S       S%S   S%S       S%S  S%S    S%S  S%S     S%|     S%|
-S%S S%S  S&S       S&S   S&S       S&S  S%S    S&S  S&S     S&S     S&S
-SS SS   S&S       S&S   S&S       S&S  S&S    S&S  S&S_Ss  Y&Ss    Y&Ss
-S S    S&S       S&S    S&S       S&S  S&S    S&S  S&S~SP  S&&S   S&&S
-SSS    S&S       S&S    S&S       S&S  S&S    S&S  S&S       S*S    SS
-SS    Sb       dS      Sb       dS  SS    SS  Sb        lS     lS
-SS    SS.     .SS      SS.     .SS  SS    SS  SS.      .SP    .SP
-SS     SSSbs_sdSSS      SSSbs_sdSSS   SS    SS   SSSbs  sSSS   sSSS
-SS      YSSP~YSSY       YSSP~YSSY    SS    SSS    YSSP  YSS'    YSS'
+<tspan x="20" dy="0">.S S.     sSSs_sSSs     .S       S.    .S_sSSs      sSSs    sSSs    sSSs</tspan>
+<tspan x="20" dy="18">.SS SS.   d%%SP~YS%%b   .SS       SS.  .SS~YS%%b    d%%SP   d%%SP   d%%SP</tspan>
+<tspan x="20" dy="18">S%S S%S  d%S'     S%b  S%S       S%S  S%S   S%b  d%S'    d%S'    d%S'</tspan>
+<tspan x="20" dy="18">S%S S%S  S%S       S%S  S%S       S%S  S%S    S%S  S%S     S%|     S%|</tspan>
+<tspan x="20" dy="18">S%S S%S  S&S       S&S  S&S       S&S  S%S    S&S  S&S     S&S     S&S</tspan>
+<tspan x="20" dy="18">SS SS   S&S       S&S  S&S       S&S  S&S    S&S  S&S_Ss  Y&Ss    Y&Ss</tspan>
+<tspan x="20" dy="18">S S    S&S       S&S  S&S       S&S  S&S    S&S  S&S~SP  S&&S   S&&S</tspan>
+<tspan x="20" dy="18">SSS    S&S       S&S  S&S       S&S  S&S    S&S  S&S       S*S    SS</tspan>
+<tspan x="20" dy="18">SS    Sb       dS  Sb       dS  SS    SS  Sb        lS     lS</tspan>
+<tspan x="20" dy="18">SS    SS.     .SS  SS.     .SS  SS    SS  SS.      .SP    .SP</tspan>
+<tspan x="20" dy="18">SS     SSSbs_sdSSS    SSSbs_sdSSS   SS    SS   SSSbs  sSSS   sSSS</tspan>
+<tspan x="20" dy="18">SS      YSSP~YSSY      YSSP~YSSY    SS    SSS    YSSP  YSS'    YSS'</tspan>
 
+<tspan x="20" dy="50">                 ⚓ Y O U N E S S ⚓</tspan>
 
-                 ⚓ Y O U N E S S ⚓
-
-</pre>
-</div>
-</foreignObject>
-
+</text>
 </svg>
