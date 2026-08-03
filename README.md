@@ -26,12 +26,13 @@
 
 ---
 
-## 🌍 Websites
+<div align="center">
 
-- 🌐 https://ton-site.com
-- 📖 https://docs.ton-site.com
-
----
+| 🌍 Website | 📌 Description |
+|:---:|:---|
+| 🚀 [My Portfolio](https://amazing-entremet-07121f.netlify.app/) | Personal website & projects showcase |
+| 📚 CodeLearn | Learning platform for programming |
+| 🌎 World War II Website | History project about WWII |
 
 ## 📊 GitHub Stats
 
