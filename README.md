@@ -14,17 +14,6 @@
 
 </div>
 
----
-
-## 🚀 Featured Projects
-
-- 🌌 **3D Solar System**
-- 📚 **MathLib C++**
-- 🌦️ **Weather App**
-- 🤖 **Linux Automation**
-- 🎮 **Game Experiments**
-
----
 
 <div align="center">
 
