@@ -1,1 +1,1 @@
-<img src="./ascii.svg">
+<img src="ascii.svg">
