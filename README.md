@@ -16,13 +16,7 @@
 
 
 <div align="center">
-
-| 🌍 Website | 📌 Description |
-|:---:|:---|
-| 🚀 [My Portfolio](https://amazing-entremet-07121f.netlify.app/) | Personal website & projects showcase |
-| 📚 [REVOLUTION FR](https://frolicking-hamster-b38bfd.netlify.app/) | Documentation / Apps for learning  |
-| 🌎 [World War II Website](https://serene-gnome-e89a2a.netlify.app/) | Documentation / History project about WWII |
-
+  
 ## 📊 GitHub Stats
 
 <p align="center">
