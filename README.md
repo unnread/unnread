@@ -36,14 +36,6 @@
 
 </div>
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=unnread\&show_icons=true\&hide_border=true\&rank_icon=github)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=unnread\&hide_border=true)
-
 </div>
 
 ---
