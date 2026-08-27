@@ -34,26 +34,6 @@
 
 ---
 
-## 🌐 Find Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-unnread-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/unnread)
-
-[![Website](https://img.shields.io/badge/My%20Website-00C853?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://amazing-entremet-07121f.netlify.app/)
-
-[![TikTok](https://img.shields.io/badge/TikTok-@developper.coding.life-000000?style=for-the-badge\&logo=tiktok\&logoColor=white)](https://www.tiktok.com/@developper.coding.life)
-
-</div>
-
----
-
-## 📂 My Repositories
-
-<div align="center">
-
-[![View All Repositories](https://img.shields.io/badge/📦%20View%20All%20Repositories-181717?style=for-the-forge\&logo=github\&logoColor=white)](https://github.com/unnread?tab=repositories)
-
 </div>
 
 ## 📊 GitHub Activity
