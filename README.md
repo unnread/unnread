@@ -14,9 +14,6 @@
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-unnread-181717?style=for-the-badge\&logo=github)](https://github.com/unnread)
-[![Website](https://img.shields.io/badge/Website-Visit-00C853?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://amazing-entremet-07121f.netlify.app/)
-
 </div>
 
 ---
