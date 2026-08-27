@@ -48,25 +48,9 @@
 
 ---
 
-## 🐍 Contributions
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/unnread/unnread/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
 <div align="center">
 
 ### ⚡ Build. Learn. Experiment. Repeat.
-
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=unnread\&style=for-the-badge\&color=00ff66)
-
-<br><br>
 
 **Thanks for visiting my profile! 💚**
 
