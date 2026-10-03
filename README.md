@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Grid+Double\&weight=700\&size=42\&duration=3500\&pause=1200\&color=00FF66\&center=true\&vCenter=true\&width=1100\&height=90\&lines=UNNREAD+DEV;Always+Learning;Programming+%E2%80%A2+Building+%E2%80%A2+Coding)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Grid+Double\&weight=700\&size=42\&duration=3500\&pause=1200\&color=FF8C42\&center=true\&vCenter=true\&width=1100\&height=90\&lines=UNNREAD+DEV;Always+Learning;Programming+%E2%80%A2+Building+%E2%80%A2+Coding)](https://git.io/typing-svg)
 
 </div>
 
@@ -8,9 +8,11 @@
 
 <div align="center">
 
-# 👋 Hey, I'm Unnread
+# 🍂 Hey, I'm Unnread
 
-### 💻 Developer • Builder • Learner
+### 🧡 Developer • Builder • Learner
+
+🍁 **Coding • Creating • Learning • Exploring** 🍁
 
 <br>
 
@@ -18,29 +20,23 @@
 
 ---
 
-## 🧠 About Me
+## 🍁 About Me
 
-> Building things, learning new concepts and constantly experimenting.
+> 🍂 Building things, learning new concepts and constantly experimenting.
 
-* 🚀 Always working on something new
+* 🎃 Always working on something new
 * 🧠 Learning by building
 * 🛠️ Experimenting with different technologies
 * 💡 Turning ideas into projects
-* 📚 Improving every day
-* 🌱 Exploring new areas of programming
-
----
-
-</div>
-
-</div>
+* 🍂 Improving every day
+* 🌰 Exploring new areas of programming
 
 ---
 
 <div align="center">
 
-### ⚡ Build. Learn. Experiment. Repeat.
+### 🍂 Build. Learn. Experiment. Repeat. 🍂
 
-**Thanks for visiting my profile! 💚**
+**Thanks for visiting my profile! 🧡🍁**
 
 </div>
